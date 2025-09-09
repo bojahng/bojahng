@@ -16,8 +16,6 @@
 <h3 align="center">A Embedded software engineer from HangZhou China</h3>
 
 <br><br>
-<!-- Star 2023-->
-<div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
 
 <!-- 数据展示-主题&theme=radical-->
 <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
