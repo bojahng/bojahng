@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 <H2>Favorite❤️Movie</H2>
 <div align="center">
-<img height="200" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
+<img height="200" src="https://github.com/bojahng/bojahng/blob/main/assets/Interstellar1.jpg?raw=true">
 </div>
 
 <!-- https://github.com/bojahng /capsule-render -->
