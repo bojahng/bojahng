@@ -12,7 +12,7 @@
 
 
 <!-- 个人简介-->
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=白天有说有笑，晚上睡个好觉;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=白天有说有笑，晚上睡个好觉;I'm+ bojahng +Welcome+!&center=true&size=27"> </a> </div>
 <h3 align="center">A Embedded software engineer from HangZhou China</h3>
 
 <br><br>
