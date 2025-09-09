@@ -15,7 +15,6 @@
 <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=白天有说有笑，晚上睡个好觉;I'm+bojahng+Welcome+!&center=true&size=27"> </a> </div>
 <h3 align="center">A Embedded software engineer from HangZhou China</h3>
 
-<br><br>
 
 <!-- 数据展示-主题&theme=radical-->
 <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
