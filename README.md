@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-> **"From Silicon to Systems."**
+> **"白天有说有笑，晚上做个好梦。 ☀️🌙"**
 
 * **Firmware Architect:** 专注 **BMC (Baseboard Management Controller)** 开发，深耕服务器底层管理、IPMI/Redfish 协议及 OpenBMC 架构。
 * **Embedded Expert:** 熟悉 **C/C++** 嵌入式开发，从 **ESP32-S3** 穿戴设备到工业级服务器固件。
