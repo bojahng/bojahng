@@ -20,10 +20,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bojahng &theme=radical&hide_border=true" />
 
 
-<!-- 展示总贡献量，输出图片颜色不一样-->
-<!-- <div align="center">
-	<img  src="https://streak-stats.demolab.com/?user=bojahng &theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j" /><br>
-</div> -->
 
 <!--
 **shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,23 +48,6 @@ Here are some ideas to get you started:
 
 
  
-</div>
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-<!-- GitHub 奖杯🏆 -->
-<div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=bojahng &theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-</div>
----
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/bojahng ?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
