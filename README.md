@@ -5,9 +5,11 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bojahng&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=白天有说有笑，晚上做个好梦。" alt="Typing SVG" />
-</p>
+---
+
+### 🖋️ Motto
+
+> **白天有说有笑，晚上做个好梦。**
 
 ---
 
@@ -26,4 +28,16 @@
 | :--- | :--- |
 | **Firmware / Embedded** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![BMC](https://img.shields.io/badge/Server-BMC%20Dev-red?style=flat-square) ![OpenBMC](https://img.shields.io/badge/Stack-OpenBMC-blue?style=flat-square) ![ESP32](https://img.shields.io/badge/Hardware-ESP32--S3-E7352C?style=flat-square&logo=espressif) |
 | **System & Ops** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL--2-0078D4?style=flat-square&logo=windows-terminal&logoColor=white) |
-| **Python & AI** | ![Python](
+| **Python & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI-Agent%20TUI-orange?style=flat-square) |
+
+---
+
+### 📈 Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bojahng&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="right">
+  <i>Last updated: 2026-03-10</i>
+</p>
