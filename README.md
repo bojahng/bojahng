@@ -1,4 +1,4 @@
-# 🚀 Bojahng's Terminal
+# 🚀 bojahng's Terminal
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=bojahng&show_icons=true&theme=tokyonight&hide_border=true" alt="Bojahng's Stats" width="48%" />
