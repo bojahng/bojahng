@@ -16,6 +16,7 @@
 <h3 align="center">A Embedded software engineer from HangZhou China</h3>
 
 
+
 <!-- 数据展示-主题&theme=radical-->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bojahng &theme=radical&hide_border=true" />
 
@@ -34,9 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
-</a>
+
 <div align="left">
 	
 <!-- ### Hello World!  I am <b>chenorange<a target="_blank" href="javascript:;"></a></b> -->
