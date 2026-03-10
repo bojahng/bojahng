@@ -53,15 +53,8 @@ Here are some ideas to get you started:
 ---
 
 
-
-
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=bojahng &theme=xcode" /> </div> -->
 <!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bojahng " /> </div>  -->
-
-<H2>Favorite❤️Movie</H2>
-<div align="center">
-<img height="200" src="https://github.com/bojahng/bojahng/blob/main/assets/Interstellar1.jpg?raw=true">
-</div>
 
 <!-- https://github.com/bojahng /capsule-render -->
 <p align="center">
