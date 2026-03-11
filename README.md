@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 * **Firmware Architect:** 专注 **BMC (Baseboard Management Controller)** 开发，深耕服务器底层管理、IPMI/Redfish 协议及 AMIBMC&OpenBMC 架构。
-* **Embedded Expert:** 熟悉 **C/C++** 嵌入式开发，从 **ESP32-S3** 硬件到工业级服务器固件。
+* **Embedded Expert:** 熟悉 **C/C++** 嵌入式开发，从事工业级服务器固件开发。
 * **Infrastructure:** 维护多盘位 **NAS** 阵列，通过 **Docker** 与 **WSL2** 构建全栈自动化开发环境。
 * **AI Integration:** 探索 LLM 在 TUI 及嵌入式硬件中的落地，实现 AI Agent 对物理设备的智能调度。
 
